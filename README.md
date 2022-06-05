@@ -9,3 +9,4 @@ I also love working with different technologies & platforms and my current favor
 <sub><li>❤️ SQL / MySQL
 <sub><li>❤️ STATA/ R /SAS
 	
+Please feel free to reach out to me via LinkedIn or email. Thank you!
