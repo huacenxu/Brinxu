@@ -1,6 +1,6 @@
 # Hello!👋 
 
-I’m @Brinxu. I have 3+ years of data science experience with a track of successful project implementation and publications. 
+I’m @Brinxu. I have 5+ years of data science experience with a track of successful project implementation and publications. 
 
 🧑‍💻 When I am not working, you can often find me coding, learning new staff, and honing my skills on various areas including ✳️ Data Science, ✳️ Statistical Modelling and ✳️ Machine Learning. 
 
